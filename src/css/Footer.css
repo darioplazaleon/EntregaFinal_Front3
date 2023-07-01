@@ -1,0 +1,18 @@
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 8px;
+    text-align: center;
+
+}
+
+.footer-light{
+    background-color: bisque;
+}
+
+.footer-dark{
+    background-color: #0d0d0d;
+    color: bisque;
+}

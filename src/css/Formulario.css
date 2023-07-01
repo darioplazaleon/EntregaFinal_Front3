@@ -1,0 +1,61 @@
+.formularioA {
+  background-color: #9b5e4f;
+  width: 30rem;
+  height: 30rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.formularioA h1 {
+  color: wheat;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.formulario label {
+  font-size: 20px;
+  color: wheat;
+}
+
+.formulario input {
+  width: 15rem;
+  height: 1.4rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.formulario button {
+  width: 10rem;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: wheat;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.error{
+  background-color: red;
+  width: 25rem;
+  height: 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  color: white;
+}
+
+.notError{
+  background-color: green;
+  width: 25rem;
+  height: 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  color: white;
+}
